@@ -1,13 +1,11 @@
 ---
 title: Estéban L'hommel
-featured_image: "/images/box3.jpg"
+featured_image: "/images/pause-cafe-travail.jpg"
 description: Site de Présentation !
 
 ---
-                             Bienvenue sur mon site internet,
+Bienvenue sur mon site internet !
 
 ![](/images/salaries-francais-quete-sens-travail.jpg)
 
-            Bonjour, bonsoir ou bonne nuit à tous ceux qui dorment 
-
-                    parce que je vous rappelle que c'est possible !
+Bonjour, bonsoir ou bonne nuit à tous ceux qui dorment parce que je vous rappelle que c'est possible
