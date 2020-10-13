@@ -1,7 +1,9 @@
 ---
-title: Site Personnel
+title: Estéban L'hommel
 featured_image: "/images/notebook.jpg"
-description: Lâche un Like
+description: Site Personnel
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Bienvenue sur mon site internet.
+
+Ici, je vais me présenter à vous et vous dire mes différentes aptitudes.
